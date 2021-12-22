@@ -1,0 +1,9 @@
+Package: PermutationR
+Type: Package
+Title: Conduct Permutation Analysis of Variance in R
+Version: 0.1.0
+Author: Osama Abdalla
+Maintainer: Osama Abdalla <osama.abdalla@mail.utoronto.ca>
+Description: Conduct permutation One-Way or Two-Way Analysis of Variance in R. Use different permutation types for two-way designs. 
+License: MIT + file LICENSE
+Encoding: UTF-8
